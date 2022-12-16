@@ -1,5 +1,5 @@
 # DISCORD-GPT (BOT-GPT)
-> Discord bot that implements GPT OpenAI API
+> Discord bot that implements OpenAI API with different models (GPT-3, Davinci,...)
 
 ## Commands (WIP):
 ### Prefix: ```gpt!```
